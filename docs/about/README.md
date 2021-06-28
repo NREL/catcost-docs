@@ -1,0 +1,9 @@
+# About CatCost
+
+## Purpose: Accelerating Catalyst R&D by Providing Cost Insight <!-- {docsify-ignore} -->
+
+Basic catalyst research can benefit from insight on catalyst cost trends and relationships. Early development of pre-commercial catalysts is generally guided by rigorous testing of catalytic performance and durability. However, information about catalyst manufacturing costs may be much more speculative, especially when advanced synthetic techniques not yet used in industry are required. Considering the significance of uncertainty in the cost of manufacture, better cost estimation methods for pre-commercial materials may allow better allocation of R&amp;D resources, throughout the development process, by optimizing materials to meet cost targets in addition to performance and durability targets.
+
+Resources for pre-commercial catalyst cost estimation have been limited prior to the release of CatCost. Evonik Industries provides a simple web-based calculator that estimates certain costs of a catalytic process based on catalyst purchase price, recovery costs, etc. However, it does not support estimation of the catalyst purchase price itself, making it suitable only for established materials. Aspen Technology, Inc. offers a capital cost estimation tool that would support some elements of cost estimation, but it is not catalyst-specific and requires a subscription. Catalyst manufacturers use sophisticated cost models, but their methods are often considered trade secrets. Therefore, the methods described herein represent the state of technology (SOT) for publicly available cost estimators.
+
+The objective of CatCost is to support the catalysis community by integrating essential cost estimation methods into a user-friendly tool. It therefore allows users the opportunity to study a wide range of contributors to uncertainty in catalyst cost while doing little or no tool development of their own.
