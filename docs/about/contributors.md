@@ -1,6 +1,6 @@
 # Contributors and Funding
 
-## Key Contributors
+## Key Contributors <!-- {docsify-ignore} -->
 
 **Lead Developer** ­– Kurt M. Van Allsburg (NREL)
 
@@ -12,6 +12,6 @@
 
 **Web App and Data Tools Development** ­­– Nicholas Wunder, Kenny Gruchalla, John Yarbrough, Kristi Potter, Matt Jankousky, Andy Young
 
-## Funding
+## Funding <!-- {docsify-ignore} -->
 
 CatCost was developed by the Chemical Catalysis for Bioenergy Consortium (ChemCatBio), a member of the Energy Materials Network (EMN). Funding was provided by U.S. Department of Energy’s Office of Energy Efficiency and Renewable Energy (EERE) Bioenergy Technologies Office (BETO).

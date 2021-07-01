@@ -14,4 +14,4 @@ To preview the site and watch your changes live, run the following from the catc
 
 ## Adding Pages
 
-Docsify automatically finds (and adds to the TOC) any Markdown pages added to the docs folder. In each folder, the README.md file becomes the homepage for that folder. If you add a visualizations subdirectory to docs and create README.md and Sankey.md files in that directory, those can be accessed at /visualizations/ and /visualizations/Sankey, respectively. See this [Docsify page](https://docsify.js.org/#/more-pages) for more details.
+Docsify automatically finds (and creates routes to) any Markdown pages added to the docs folder. In each folder, the README.md file becomes the homepage for that folder. If you add a visualizations subdirectory to docs and create README.md and Sankey.md files in that directory, those can be accessed at /visualizations/ and /visualizations/Sankey, respectively. See this [Docsify page](https://docsify.js.org/#/more-pages) for more details.

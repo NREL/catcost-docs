@@ -1,11 +1,11 @@
-# CatCost User Guide
+# <span style="font-family:Arial; font-weight: bold; color:#F7941D">CatCost</span> User Guide
 
-## Tutorial Sub
+## Welcome! <!-- {docsify-ignore} -->
 
-### Mega Sub
+Use the links at left to navigate through the guide. You can also return to the main CatCost site at https://catcost.chemcatbio.org
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/depIWmDr3L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Updates <!-- {docsify-ignore} -->
 
-## More Header
+This guide was just released! Let us know if you have any issues at catcost@nrel.gov
 
-# Big header
+Updates to the CatCost User Guide will be described here. For details on updates to CatCost itself, go to https://catcost.chemcatbio.org/release-notes

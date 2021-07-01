@@ -1,4 +1,4 @@
-- CatCost Documentation v${version}
+- <span style="font-family:Arial; font-weight: bold; color:#F7941D">CatCost</span> User Guide v1.1.0
 
   - [Home](/)
   - [About CatCost](/about/)
@@ -7,3 +7,13 @@
   - Getting Started
     - [Spreadsheet](/getting-started/spreadsheet)
     - [Web](/getting-started/web-app)
+  - Estimation Methods
+    - [Accuracy and Sensitivity](/estimation-methods/accuracy)
+    - [Global Inputs](/estimation-methods/global-inputs)
+    - [Raw Materials](/estimation-methods/raw-materials)
+    - [Two Processing Cost Methods](/estimation-methods/processing-cost-methods)
+    - [Step Method](/estimation-methods/step-method)
+    - [CapEx & OpEx Factors](/estimation-methods/capex-and-opex-factors)
+    - [Spent Catalyst](/estimation-methods/spent-catalyst)
+    - [Process Templates](/estimation-methods/process-templates)
+  - Web App Visualizations
