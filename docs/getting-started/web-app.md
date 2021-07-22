@@ -76,11 +76,15 @@ Completion checks are performed on modules in the web tool. Any module that has 
 
 ![](../_media/completion-checks.png "Sidebar showing incomplete inputs in several modules")
 
+#### Sensitivity Analysis
+
+### Help Messages
+
 ### Important Notes for the Web App
 
 #### Multiple Estimates
 
-The web app version of CatCost can contain multiple estimates. These estimates can share entries from the Materials, Equipment, and Spent Catalyst Libraries. For this reason, use caution when editing library entries, as it may change inputs for more than one estimate. You can check this using the Estimate Use Count feature in the Materials and Equipment libraries. You can always duplicate a library entry and give it a different name if you want it to have different values for different estimates.
+The web app version of CatCost can contain multiple estimates. These estimates can share entries from the Materials, Equipment, and Spent Catalyst Libraries. For this reason, use caution when editing library entries, as it may change inputs for more than one estimate. You can check this using the Estimate Use Count feature in the Materials and Equipment libraries. You can always duplicate a library entry and change its name if you want it to have different values for different estimates.
 
 TODO: duplication
 

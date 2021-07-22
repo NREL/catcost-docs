@@ -14,12 +14,18 @@ In CatCost, a catalyst cost estimate is broken down into modules that are design
 
 TODO: image of modules
 
-In CatCost, a catalyst cost estimate is broken down into modules that are designed to be completed in order. The first two modules are **1 Inputs**, for [global inputs](/estimation-methods/global-inputs) and **2 Materials**, for [raw materials](/estimation-methods/raw-materials). For processing costs (all of the non-materials components of catalyst cost, such as equipment and labor costs), CatCost contains two [distinct methods](/estimation-methods/two-processing-cost-methods); generally you would use only one of these methods in an estimate, although it is possible to complete both to [compare and combine them](/estimation-methods/two-processing-cost-methods). The [Step Method](/estimation-methods/step-method) uses module **3a Step Method** only. The [CapEx and OpEx Factors](/estimation-methods/capex-and-opex-factors) method uses modules **3b Equipment**, **3c Utilities**, **3d CapEx**, and **3d OpEx**. This concludes the estimation of purchase cost components, but it is critical for many catalysts to also consider the end-of-life value/cost of [spent catalyst](/estimation-methods/spent-catalyst), which is included in **4 Spent Catalyst**. Finally, the cost outputs can be viewed using **5a Summary Outputs**, **5b Detailed Outputs** _(web-only in v1.1.0)_, or **5c Printable Outputs** _(spreadsheet-only in v1.1.0)_ For more detail, see the table below.
+In CatCost, a catalyst cost estimate is broken down into modules that are designed to be completed in order. The first two modules are **1 Inputs**, for [global inputs](/estimation-methods/global-inputs) and **2 Materials**, for [raw materials](/estimation-methods/raw-materials). For processing costs (all of the non-materials components of catalyst cost, such as equipment and labor costs), CatCost contains two [distinct methods](/estimation-methods/two-processing-cost-methods); generally, you would use only one of these methods in an estimate, although it is possible to complete both to [compare and combine them](/estimation-methods/two-processing-cost-methods). The [Step Method](/estimation-methods/step-method) uses module **3a Step Method** only. The [CapEx and OpEx Factors](/estimation-methods/capex-and-opex-factors) method uses modules **3b Equipment**, **3c Utilities**, **3d CapEx**, and **3d OpEx**. This concludes the estimation of purchase cost components, but it is critical for many catalysts to also consider the end-of-life value/cost of [spent catalyst](/estimation-methods/spent-catalyst), which is included in **4 Spent Catalyst**. Finally, the cost outputs can be viewed using **5a Summary Outputs**, **5b Detailed Outputs** _(web-only in v1.1.0)_, or **5c Printable Outputs** _(spreadsheet-only in v1.1.0)_ For more detail, see the table below.
 
 ![Table overview of modules](../_media/module-table.png)
 
 ### Inputs and Colors
+
+#### Sensitivity Analysis
+
+### Help Messages
+
 ### Global Inputs
+
 ### How much detail here????
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/depIWmDr3L4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
