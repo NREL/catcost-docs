@@ -14,4 +14,4 @@
 
 ## Funding <!-- {docsify-ignore} -->
 
-CatCost was developed by the Chemical Catalysis for Bioenergy Consortium (ChemCatBio), a member of the Energy Materials Network (EMN). Funding was provided by U.S. Department of Energy’s Office of Energy Efficiency and Renewable Energy (EERE) Bioenergy Technologies Office (BETO).
+CatCost was developed by the Chemical Catalysis for Bioenergy Consortium (ChemCatBio), a member of the Energy Materials Network (EMN). Funding was provided by the U.S. Department of Energy (DOE) Office of Energy Efficiency and Renewable Energy (EERE) Bioenergy Technologies Office (BETO), under Contract DE-AC36-08GO28308 at the National Renewable Energy Laboratory (NREL) and Contract DE-AC05-76RL01830 at the Pacific Northwest National Laboratory (PNNL).
