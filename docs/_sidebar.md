@@ -18,4 +18,4 @@
     - [CapEx & OpEx Factors](/estimation-methods/capex-and-opex-factors)
     - [Process Templates](/estimation-methods/process-templates)
     - [Spent Catalyst](/estimation-methods/spent-catalyst)
-  - Web App Visualizations
+  - [Web App Visualizations](/visualizations)
