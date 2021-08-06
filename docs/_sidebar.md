@@ -8,7 +8,7 @@
   - Getting Started
     - [Two Versions of CatCost](/getting-started/two-versions)
     - [Spreadsheet](/getting-started/spreadsheet)
-    - [Web](/getting-started/web-app)
+    - [Web App](/getting-started/web-app)
   - Estimation Methods
     - [Accuracy and Sensitivity](/estimation-methods/accuracy)
     - [Global Inputs](/estimation-methods/global-inputs)
