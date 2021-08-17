@@ -6,7 +6,7 @@ Two versions of CatCost are available, both of which use the same estimation log
 
 - Calculation logic can be viewed and customized
 - Printable Outputs view for meetings and publications
-- Excel estimates can be converted for use in the web app using the [CatCost Data Tools](https://github.com/NREL/catcost-data-tools/releases/latest), allowing the user to gain the benefits of both
+- Excel estimates can be converted for use in the web app using the [Data Tools](/getting-started/data-tools), allowing the user to gain the benefits of both
 
 **Web app version – key advantages:**
 
